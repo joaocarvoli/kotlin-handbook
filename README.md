@@ -8,6 +8,13 @@ All the resources were based on [Kotlin Bootcamp](https://developer.android.com/
 
 ### Topics
 - Kotlin Basics
+  - [Step 01](basic/hello.kts)
+    - Hello world
+    - Numbers
+    - Strings
+  - [Step 02](basic/decisions.kts)
+    - Comparisons
+    - ...
 - Functions
 - Classes and Objects
 - Extensions

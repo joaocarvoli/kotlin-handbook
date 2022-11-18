@@ -12,9 +12,11 @@ All the resources were based on [Kotlin Bootcamp](https://developer.android.com/
     - Hello world
     - Numbers
     - Strings
-  - [Step 02](basic/decisions.kts)
-    - Comparisons
-    - ...
+  - Step 02
+    - [Comparisons](basic/decisions.kts)
+    - [Nullability](basic/nullability.kts)
+    - [Arrays and Loops](basic/arraysAndLoops.kts)
+  
 - Functions
 - Classes and Objects
 - Extensions

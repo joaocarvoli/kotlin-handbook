@@ -12,12 +12,16 @@ All the resources were based on [Kotlin Bootcamp](https://developer.android.com/
     - Hello world
     - Numbers
     - Strings
+    - [Collections](basic/collections.kts)
   - Step 02
     - [Comparisons](basic/decisions.kts)
     - [Nullability](basic/nullability.kts)
     - [Arrays and Loops](basic/arraysAndLoops.kts)
-  
+
 - Functions
+  - [Intro](functions/func.kts)
+  - [Filter](functions/filter.kts)
+  - [Lambda](functions/lambda.kts)
 - Classes and Objects
 - Extensions
 - Generics

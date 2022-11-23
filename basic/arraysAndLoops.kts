@@ -39,3 +39,8 @@ println("")
 repeat(3) {
     println("It works")
 }
+
+val arrayTest = Array(5, { 0 })
+for (i in arrayTest){
+    println(i)
+}

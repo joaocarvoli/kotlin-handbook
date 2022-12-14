@@ -8,3 +8,5 @@ object doConnection: dbConnection {
         TODO("Not yet implemented")
     }
 }
+
+// Enum class

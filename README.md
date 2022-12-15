@@ -29,7 +29,6 @@ All the resources were based on [Kotlin Bootcamp](https://developer.android.com/
   - [Data class](classesAndObjects/data.kts)
   - [Singleton](classesAndObjects/patterns.kts)
 - Extensions
-- Generics
-- Functional manipulation
+  - [Pairs and Triples](extensions/pairsAndTriples.kts)
 
 > *For while these are the topics but will be adding more topics when necessary*

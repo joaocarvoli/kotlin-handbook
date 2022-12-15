@@ -9,4 +9,3 @@ object doConnection: dbConnection {
     }
 }
 
-// Enum class

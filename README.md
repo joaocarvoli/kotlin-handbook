@@ -23,6 +23,11 @@ All the resources were based on [Kotlin Bootcamp](https://developer.android.com/
   - [Filter](functions/filter.kts)
   - [Lambda](functions/lambda.kts)
 - Classes and Objects
+  - [Inheritance](classesAndObjects/main.kts)
+  - [Interfaces](classesAndObjects/interface.kts)
+  - [Abstract Class](classesAndObjects/abstract.kts)
+  - [Data class](classesAndObjects/data.kts)
+  - [Singleton](classesAndObjects/patterns.kts)
 - Extensions
 - Generics
 - Functional manipulation
